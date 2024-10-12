@@ -3,5 +3,5 @@ recordatorio = "otra cosa";
 actualizarRecordatorio(recordatorio);
 
 function actualizarRecordatorio(params) {
-  console.log("params");
+  console.log("holo");
 }
